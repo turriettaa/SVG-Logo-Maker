@@ -40,7 +40,7 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at [turriettaa@gmail.com]. You can find more of my work at [Your GitHub Username](https://github.com/turriettaa).
+If you have any questions about the repo, open an issue or contact me directly at [turriettaa@gmail.com]. You can find more of my work at [turriettaa](https://github.com/turriettaa).
 
 ## Acknowledgments
 
